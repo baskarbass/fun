@@ -1,0 +1,44 @@
+.image-container{
+	margin-top: 20px;
+}
+.m-top{
+	margin-top: 30px; 
+}
+.image-container div img, #image{
+	/*border: 1px solid #ccc;*/
+	height: 110px;
+	width: 110px;
+}
+#image{
+	/*background: url(../images/question-mark-face.jpg)no-repeat;*/
+	background-size: contain;
+}
+.bypass-icon i{
+	line-height: 100px;
+}
+#load{
+	display: none;
+}
+
+/*trolling lotta style sheet*/
+.lotta{
+	display: none;
+}
+.lotta h1{
+	text-align: center;
+}
+.profile{
+
+}
+.profile div img{
+	height: 105px;
+  width: 105px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.profile div p{
+	text-align: justify;
+}
+.special-names{
+	
+}
