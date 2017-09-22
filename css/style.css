@@ -6,15 +6,16 @@
 }
 .image-container div img, #image{
 	/*border: 1px solid #ccc;*/
-	height: 110px;
-	width: 110px;
+	height: 360px;
+	width: 360px;
 }
 #image{
 	/*background: url(../images/question-mark-face.jpg)no-repeat;*/
 	background-size: contain;
 }
 .bypass-icon i{
-	line-height: 100px;
+	line-height: 360px;
+	font-size: 130px;
 }
 #load{
 	display: none;
@@ -40,5 +41,5 @@
 	text-align: justify;
 }
 .special-names{
-	
+
 }
